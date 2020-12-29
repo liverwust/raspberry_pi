@@ -1,6 +1,6 @@
 ---
 # RAM size for log2ram folder in megabytes
-log2ram_size: '40'
+#log2ram_size: '40'
 
 # GPU memory split in megabytes
 gpu_mem: '16' # 16, 64, 128 or 256
